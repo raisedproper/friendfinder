@@ -19,5 +19,7 @@ var friends = [
         scores: ['2', '3', '5', '1', '2', '5', '1', '2', '4', '2']
     }
   ];
+
+  //added different numbers for search to varry 
   //Export array so it's accessible to other files using require.
   module.exports = friends;
